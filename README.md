@@ -35,7 +35,7 @@ The project uses both **Random Forest Classification** and **Deep Neural Network
 | **Quality** | Target variable (score between 0–10) |
 
 ---
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 - **Languages:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras  
 - **Environment:** Google Colab  
