@@ -130,7 +130,7 @@ The project uses both **Random Forest Classification** and **Deep Neural Network
    ```
 3. Open the notebook:
    ```bash
-   jupyter notebook notebooks/white_wine_quality.ipynb
+   Google collab notebooks/white_wine_quality.ipynb
    ```
 4. Run all cells to reproduce results.
 
